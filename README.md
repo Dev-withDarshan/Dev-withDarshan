@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:33F0FF&height=280&section=header&text=DARSHAN&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Web%20Development%20%7C%20Cloud&descAlignY=60&descSize=20&fontAlign=50" alt="Darshan Header" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00c3ff&center=true&vCenter=true&width=500&lines=B.Tech+IT+Student+@+VIT;Passionate+about+C%2B%2B+%26+Python;Exploring+Azure+%26+Cloud;Seeking+SWE+Internships" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=00c3ff&center=true&vCenter=true&width=500&lines=B.Tech+IT+Student+@+VIT+Vellore;Passionate+about+C%2B%2B+%26+Python;Exploring+Azure+%26+Cloud;Building+AI+Driven+Internships;Seeking+SWE+Internships" alt="Typing SVG" />
   </a>
 
   <h3>
