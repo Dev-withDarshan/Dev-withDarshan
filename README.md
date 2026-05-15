@@ -33,7 +33,7 @@
 ## `❯ whoami`
 
 ```yaml
-name        : Deveshwar U
+name        : K DARSHAN
 degree      : B.Tech Information Technology  ·  Year 2 of 4
 focus       : AI Systems · Data Engineering · Distributed Backends
 currently   : Building AI Data Engines + Disaster Comm Infrastructure
