@@ -20,7 +20,7 @@
   
   <p align="center">
     🌱 <b>Current Focus:</b> Mastering DSA, System Architecture, and Microsoft Azure Cloud <br>
-    🎯 <b>Goal:</b> Secure a <b>Software Engineering Internship</b> to deliver impactful solutions
+    🎯 <b>Goal:</b> Secure a <b>Software Engineering Internship at Microsoft</b> to deliver impactful solutions
   </p>
 
   <br>
