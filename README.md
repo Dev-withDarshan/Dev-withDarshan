@@ -44,7 +44,7 @@
     <img src="https://img.shields.io/badge/Design-OOP-7000ff?style=for-the-badge&logo=design&logoColor=white" />
     <img src="https://img.shields.io/badge/Cloud-Azure-00c3ff?style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/Web-FullStack-ff9900?style=for-the-badge&logo=javascript&logoColor=white" />
-  </p>
+</p>
 
   <br>
   
